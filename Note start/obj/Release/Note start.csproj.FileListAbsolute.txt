@@ -1,0 +1,8 @@
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\bin\Release\Note start.exe
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\bin\Release\Note start.pdb
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Release\Note_start.Properties.Resources.resources
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Release\Note start.csproj.GenerateResource.Cache
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Release\Note start.exe
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Release\Note start.pdb
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Release\Note_start.frmNoteStart.resources
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Release\Note start.csprojResolveAssemblyReference.cache

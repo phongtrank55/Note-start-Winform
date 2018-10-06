@@ -1,0 +1,16 @@
+C:\Users\Laptop88T\Desktop\Note start\Note start\bin\Debug\Note start.exe
+C:\Users\Laptop88T\Desktop\Note start\Note start\bin\Debug\Note start.pdb
+C:\Users\Laptop88T\Desktop\Note start\Note start\obj\Debug\Note start.csprojResolveAssemblyReference.cache
+C:\Users\Laptop88T\Desktop\Note start\Note start\obj\Debug\Note_start.Form1.resources
+C:\Users\Laptop88T\Desktop\Note start\Note start\obj\Debug\Note_start.Properties.Resources.resources
+C:\Users\Laptop88T\Desktop\Note start\Note start\obj\Debug\Note start.csproj.GenerateResource.Cache
+C:\Users\Laptop88T\Desktop\Note start\Note start\obj\Debug\Note start.exe
+C:\Users\Laptop88T\Desktop\Note start\Note start\obj\Debug\Note start.pdb
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Debug\Note start.exe
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Debug\Note start.pdb
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\bin\Debug\Note start.exe
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\bin\Debug\Note start.pdb
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Debug\Note start.csprojResolveAssemblyReference.cache
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Debug\Note_start.frmNoteStart.resources
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Debug\Note_start.Properties.Resources.resources
+D:\PT\Bai lam C sharp\Win form\Note start\Note start\obj\Debug\Note start.csproj.GenerateResource.Cache
